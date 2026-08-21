@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lars12345678911.github.io/vibeshift/sitemap.xml
